@@ -58,7 +58,6 @@ buck-out
 .gradle
 local.properties
 *.iml
-/android/
 
 # Node
 node_modules
@@ -97,6 +96,7 @@ package-lock.json
 /template/vendor
 
 # iOS / CocoaPods
+/ios/Pods
 /template/ios/build/
 /template/ios/Pods/
 /template/ios/Podfile.lock
@@ -118,5 +118,3 @@ package-lock.json
 
 # Android memory profiler files
 *.hprof
-
-/ios/Pods
