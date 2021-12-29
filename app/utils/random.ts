@@ -1,3 +1,5 @@
+import { nanoid } from "nanoid/non-secure";
+
 export const NAMES = [
   "Reece Escobar",
   "Ignacio Weeks",
@@ -120,6 +122,13 @@ export function randomBoolean(probability: number) {
  */
 export function randomChoice<T>(choices: T[]): T {
   return choices[Math.floor(Math.random() * choices.length)];
+}
+
+/**
+ * Return a randomly-generated id.
+ */
+export function randomId(): string {
+  return nanoid();
 }
 
 /**

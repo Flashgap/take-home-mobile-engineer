@@ -1,5 +1,4 @@
 import React from "react";
-import { Text } from "react-native";
 import { UsersAPI } from "../api";
 import { User } from "../models";
 
@@ -55,7 +54,7 @@ export function UsersProvider(props: {
       dislikeUser,
       likeUser,
     };
-  }, [users, dislikeUser, likeUser]);
+  }, [users, loadUsers, dislikeUser, likeUser]);
 
   return (
     <UsersContext.Provider value={value}>{children}</UsersContext.Provider>

@@ -2,6 +2,7 @@ import { User } from "../models";
 import {
   randomBio,
   randomBoolean,
+  randomId,
   randomInteger,
   randomName,
   randomPictures,
@@ -50,6 +51,7 @@ async function mockLoadUsers(quantity: number): Promise<User[]> {
 
   for (let i = 0; i < quantity; i++) {
     users.push({
+      id: randomId(),
       name: randomName(),
       age: randomInteger(20, 45),
       bio: await randomBio(),

@@ -1,4 +1,6 @@
 export interface User {
+  /** The id of the user */
+  id: string;
   /** The name of the user */
   name: string;
   /** The age of the user */
