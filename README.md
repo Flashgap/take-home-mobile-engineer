@@ -2,7 +2,9 @@
 
 This take-home exercise focuses on a key aspect of many dating applications: the swipe gesture.
 
-![Swiper](https://www.loom.com/share/0ca44c71e8c7452db133f07567ef840f)
+**Demo:**
+
+https://www.loom.com/share/0ca44c71e8c7452db133f07567ef840f
 
 ## Goals
 
