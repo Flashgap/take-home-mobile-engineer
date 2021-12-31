@@ -1,3 +1,6 @@
+/**
+ * A representation of a User.
+ */
 export interface User {
   /** The id of the user */
   id: string;
