@@ -16,27 +16,27 @@ Below are some of the product and technical requirements, as well as some stretc
 
 **Must have:**
 
-- Must display the app's header in the **Home** (see Figma).
-- Must display a deck of cards representing user profiles in the **Home** (see Figma).
-- Must display an action bar including the dislike and like actions in the **Home** (see Figma).
-- Must handle the swipe right/left gestures and animations in the **Home** (see Loom):
-  - The top card should follow the approximative movements shown in the video (aim for what you consider a good user experience, do not try to replicate at all costs the movements shown in the video).
-  - The background card should fade in/out and scale down/up, in parallel to the top card (see Loom).
-- The top card must be clickable and lead to the detailed **Profile** (see Figma).
-- The **Profile** (see Figma) should contain:
-  - A back action to go back to the deck.
-  - A picture slider.
-  - The complete user details (name, age, distance, bio).
+- [ ] Must display the app's header in the **Home** (see Figma).
+- [ ] Must display a deck of cards representing user profiles in the **Home** (see Figma).
+- [ ] Must display an action bar including the dislike and like actions in the **Home** (see Figma).
+- [ ] Must handle the swipe right/left gestures and animations in the **Home** (see Loom):
+  - [ ] The top card should follow the approximative movements shown in the video (aim for what you consider a good user experience, do not try to replicate at all costs the movements shown in the video).
+  - [ ] The background card should fade in/out and scale down/up, in parallel to the top card (see Loom).
+- [ ] The top card must be clickable and lead to the detailed **Profile** (see Figma).
+- [ ] The **Profile** (see Figma) should contain:
+  - [ ] A back action to go back to the deck.
+  - [ ] A picture slider.
+  - [ ] The complete user details (name, age, distance, bio).
 
 **Stretch goals:**
 
-- Animate the Like and Dislike buttons (ex: increase scale of the related button depending on the swipe direction).
-- A loading indicator for when the cards are loading.
-- Add a fade in/out color overlay to cards (ex: yellow or green) depending on the swipe direction.
+- [ ] Animate the Like and Dislike buttons (ex: increase scale of the related button depending on the swipe direction).
+- [ ] A loading indicator for when the cards are loading.
+- [ ] Add a fade in/out color overlay to cards (ex: yellow or green) depending on the swipe direction.
 
 **Extra stretch goals:**
 
-- When liking a user, a random `matched: boolean` property is returned. When `true`, display a small visual feedback showing the mutual match event.
+- [ ] When liking a user, a random `matched: boolean` property is returned. When `true`, display a small visual feedback showing the mutual match event.
 
 ### Technical goals
 
