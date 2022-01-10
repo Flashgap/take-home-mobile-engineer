@@ -77,7 +77,7 @@ This project comes with pre-installed packages that you are free to use or not. 
 
 ### Documentation
 
-- Figma: https://www.figma.com/file/ZQOPveo4OM1rMFfWHaHe2V/Fruitz---Senior-Mobile-Engineer?node-id=11%3A1053 (account required to select individual components)
+- **Figma**: https://www.figma.com/file/ZQOPveo4OM1rMFfWHaHe2V/Fruitz---Senior-Mobile-Engineer?node-id=11%3A1053 (account required to select individual components)
 - Project was created using: https://reactnative.dev/docs/typescript#getting-started-with-typescript
 - A small tutorial to guide you through the creation of the Deck: https://iamshadmirza.com/react-native-animation-using-hooks-tinder-cards
 
