@@ -8,7 +8,7 @@ https://www.loom.com/share/0ca44c71e8c7452db133f07567ef840f
 
 ## Goals
 
-You are to reproduce the same application as shown in the video above. This exercise should take you a couple of hours to complete (around **3 hours**). However, if you think you'll need more time either let us know at the beginning or while developping it. Different developers code at different speeds, but quality code comes from: good abstractions, good namings, good comments.
+You are to reproduce the same application as shown in the video above. This exercise should take you a couple of hours to complete. However, if you think you'll need more time either let us know at the beginning or while developping it. Different developers code at different speeds, but quality code comes from: good abstractions, good namings, good comments.
 
 Below are some of the product and technical requirements, as well as some stretch goals.
 
