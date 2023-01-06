@@ -22,11 +22,12 @@ Below are some of the product and technical requirements, as well as some stretc
 - [ ] Must handle the swipe right/left gestures and animations in the **Home** (see Loom):
   - [ ] The top card should follow the approximative movements shown in the video (aim for what you consider a good user experience, do not try to replicate at all costs the movements shown in the video).
   - [ ] The background card should fade in/out and scale down/up, in parallel to the top card (see Loom).
-- [ ] The top card must be clickable and lead to the detailed **Profile** (see Figma).
-- [ ] The **Profile** (see Figma) should contain:
+- [ ] The top card must be clickable and lead to the detailed **Profile**.
+- [ ] The **Profile** should contain:
   - [ ] A back action to go back to the deck.
   - [ ] A picture slider.
   - [ ] The complete user details (name, age, distance, bio).
+  - [ ] Is yours to design and implement as you want (you can take inspiration from the Loom video).
 
 **Stretch goals:**
 
